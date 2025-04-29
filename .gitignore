@@ -1,0 +1,15 @@
+site/client/yarn.lock
+esp/motion-sensor/config.py
+pi/node_modules
+pi/config
+site/node_modules
+site/yarn.lock
+site/npm-debug.log
+pi/yarn.lock
+esp/temperature-sensor/config.py
+esp/dht-sensor/config.py
+esp/relay-bulb/config.py
+site/config/keys_dev.js
+raspberry-pi/node_modules
+raspberry-pi/config
+raspberry-pi/package-lock.json
